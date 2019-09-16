@@ -2,7 +2,7 @@ drop table room;
 drop table hotel;
 drop table booking;
 drop table loggedin_user;
-
+drop table city;
 
 
 CREATE TABLE IF NOT EXISTS loggedin_user
